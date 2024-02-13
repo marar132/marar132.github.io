@@ -1,0 +1,2 @@
+(()=>{var e=document.getElementById("popup-link"),t=document.getElementById("popup-window"),n=(document.getElementById("popup-window-stop"),document.getElementById("but"));e.addEventListener("click",(function(e){e.preventDefault(),t.style.display="block",overlay.style.display="block"})),n.addEventListener("click",(function(){t.style.display="none",overlay.style.display="none"}))})();
+//# sourceMappingURL=main.a6ecbcb6.js.map
